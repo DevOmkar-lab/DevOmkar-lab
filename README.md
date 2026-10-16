@@ -31,10 +31,7 @@ Building practical AI systems — from computer vision and multi-agent workflows
 My next learning project: implement and train a GPT-style decoder-only Transformer to understand language models from first principles.
 
 Planned milestones:
-- Build a tokenizer and text preprocessing pipeline.
-- Implement token embeddings, causal self-attention, feed-forward blocks, normalization, and residual connections.
-- Add training and validation loops, checkpoints, reproducible configs, and loss tracking.
-- Evaluate generated text and document the training data, compute requirements, and limitations.
+- Train and evaluate a 120M+ parameter model.
 - Explore instruction fine-tuning and a chat API after the base model is working.
 
 **Planned stack:** Python · PyTorch · BPE/SentencePiece tokenizer · FastAPI
